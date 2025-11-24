@@ -1,2 +1,2 @@
 # aibotia
-Dashboard and labnding page 
+Dashboard and landing page 
